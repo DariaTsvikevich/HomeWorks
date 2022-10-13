@@ -40,11 +40,11 @@ Console.Write("False");
 /*
 Console.Write("Input a number: ");
 int n = Convert.ToInt32(Console.ReadLine());
-int current = 1;
+int current = 2;
 while (current <= n)
 {
     Console.Write(current + " ");
-    current++;
+    current += 2;
 }
 */
 
